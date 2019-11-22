@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <?php wp_head(); ?>
-        <meta name = "author" content = "KAIZER WEB DESIGN" />
+        <meta name = "author" content = "KAIZER WEB DESIGN WEB DEVELOPPEMENT COMPANY" />
 
 
         <link href = "https://fonts.googleapis.com/css?family=Montserrat:200,300,400,700" rel = "stylesheet">
